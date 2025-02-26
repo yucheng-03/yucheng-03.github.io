@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/picture.JPEG
+  src: /assets/img/picture.jpg
   alt: website picture
 ---
 
