@@ -13,13 +13,12 @@ My research interests lie in Biostatistics. During my spare time, I enjoy runnin
 
 </p>
 
-<p>
-Feel free to contact me if you have the same interests and want to share with me!
-
-</p>
-
-
 
 <p>
 You can see and download my Curriculum Vitae through <strong><a href="https://drive.google.com/file/d/14Fk-y4sEnN2tpcRtvd5IbbZ9ewiMpNT9/view?usp=drive_link" target="_blank"> Yu Cheng's CV </a></strong> (updated on Feb, 2025).
+</p>
+
+<p>
+Feel free to contact me if you have the same interests and want to share with me!
+
 </p>
