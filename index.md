@@ -1,4 +1,4 @@
---
+---
 layout: home
 profile_picture:
   src: /assets/img/picture.JPEG
