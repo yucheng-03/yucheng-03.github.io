@@ -1,10 +1,8 @@
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-title: Bay Jekyll Theme
-description: Bay is a minimal Jekyll Theme.
-baseurl: "/bay"
-url: "https://eliottvincent.github.io"
+# Site settings
+title: Yu Cheng Homepage
+description: Yu Cheng Homepage.
+baseurl: ""
+url: "https://yucheng-03.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
@@ -18,32 +16,15 @@ header:
 footer:
   show_powered_by: true
   contact:
-    - type: email
-      name: Email
-      value: yourmail@domain.com
-    - type: wechat
-      value: YourWeChatUsername
+    - name: Email
+      value: chengusanye@gmail.com
+      link: mailto:chengusanye@gmail.com
+    - name: Wechat
+      value: Chengy_ustc
       link: "#"
   follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - type: github
-      name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+    - name: GitHub
+      link: http://github.com/yucheng-03
 
 # Build settings
 markdown: kramdown
