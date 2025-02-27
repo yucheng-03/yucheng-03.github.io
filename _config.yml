@@ -21,7 +21,7 @@ footer:
       link: mailto:chengusanye@gmail.com
     - name: Wechat
       value: Chengy_ustc
-      link: "#"
+      link: /assets/img/wechat-qr-code.png
   follow:
     - name: GitHub
       link: http://github.com/yucheng-03
