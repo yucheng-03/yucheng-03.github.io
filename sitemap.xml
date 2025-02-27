@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- This sitemap was created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<!-- Last updated on 2025-02-27 -->
+
+<url>
+  <loc>https://yucheng-03.github.io/</loc>
+  <lastmod>2025-02-27T12:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://yucheng-03.github.io/blog</loc>
+  <lastmod>2025-02-27T12:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yucheng-03.github.io/work</loc>
+  <lastmod>2025-02-27T12:00:00+00:00</lastmod>
+  <changefreq>semiannually</changefreq>
+  <priority>0.80</priority>
+</url>
+
+</urlset>
