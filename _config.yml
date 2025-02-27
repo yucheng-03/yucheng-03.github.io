@@ -16,10 +16,10 @@ header:
 footer:
   show_powered_by: true
   contact:
-    - name: email
+    - name: Email
       value: chengusanye@gmail.com
       link: mailto:chengusanye@gmail.com
-    - name: wechat
+    - name: Wechat
       value: Chengy_ustc
       link: "#"
   follow:
