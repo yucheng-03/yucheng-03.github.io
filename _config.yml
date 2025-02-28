@@ -6,13 +6,18 @@ url: "https://yucheng-03.github.io"
 og_image: /assets/img/profile-2022.JPG
 google_analytics: "UA-121636368-3"
 
+# 包含的文件列表
+include:
+  - thoughts.html
+
 header:
   pages:
     - name: Home
       slug: /
     - name: Work
     - name: Blog
-    - name: Thoughts
+    - name: thoughts
+    
 
 footer:
   show_powered_by: true
@@ -33,6 +38,7 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Excluded items
 exclude:

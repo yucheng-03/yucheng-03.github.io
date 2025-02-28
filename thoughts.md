@@ -1,7 +1,7 @@
 ---
-layout: blog
-title: Blog
-slug: /blog
+layout: thoughts
+title: Thoughts
+slug: /thoughts
 ---
 
 Something interesting is coming soon!

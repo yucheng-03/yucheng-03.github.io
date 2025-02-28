@@ -25,11 +25,5 @@
   <changefreq>semiannually</changefreq>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://yucheng-03.github.io/Thoughts</loc>
-  <lastmod>2025-02-27T12:00:00+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
 
 </urlset>

@@ -4,6 +4,9 @@
 
 @charset "utf-8";
 
+// 引入 sass:color 模块
+@use "sass:color";
+
 @use "variables" with (
   $base-url: "{{ site.baseurl }}"
 );
@@ -16,4 +19,5 @@
 @use "work";
 @use "blog";
 @use "post";
+@use "thoughts";
 @use "not_found";
