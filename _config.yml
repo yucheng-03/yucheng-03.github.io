@@ -12,6 +12,7 @@ header:
       slug: /
     - name: Work
     - name: Blog
+    - name: Thoughts
 
 footer:
   show_powered_by: true
