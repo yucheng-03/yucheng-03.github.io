@@ -9,28 +9,29 @@
 
 <url>
   <loc>https://yucheng-03.github.io/</loc>
-  <lastmod>2025-03-01T07:08:39+00:00</lastmod>
+  <lastmod>2025-03-1T05:19:42+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://yucheng-03.github.io/work</loc>
-  <lastmod>2025-03-01T07:08:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yucheng-03.github.io/blog</loc>
-  <lastmod>2025-03-01T07:08:39+00:00</lastmod>
+  <loc>https://yucheng-03.github.io/fun</loc>
+  <lastmod>2025-03-1T05:19:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://yucheng-03.github.io/thoughts</loc>
-  <lastmod>2025-03-01T07:08:39+00:00</lastmod>
+  <lastmod>2025-03-1T05:19:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yucheng-03.github.io/fun</loc>
-  <lastmod>2025-03-01T07:08:39+00:00</lastmod>
+  <loc>https://yucheng-03.github.io/blog</loc>
+  <lastmod>2025-03-1T05:19:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://yucheng-03.github.io/work</loc>
+  <lastmod>2025-03-1T05:19:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 
 </urlset>
