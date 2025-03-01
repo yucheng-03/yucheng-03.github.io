@@ -15,7 +15,7 @@ In addition, I'm also advised by <strong><a href="https://science.oregonstate.ed
 This dual - mentoring experience has not only enriched my academic growth but also allowed me to blend the best of both worlds in the pursuit of knowledge. 
 </p>
 <p>
-My research interests lie in Biostatistics. During my spare time, I enjoy running, reading, playing chess.
+My research interests lie in Biostatistics.
 
 </p>
 
@@ -25,6 +25,6 @@ You can see and download my Curriculum Vitae through <strong><a href="https://dr
 </p>
 
 <p>
-Feel free to contact me if you have the same interests and want to share with me!
+Feel free to contact me!
 
 </p>
