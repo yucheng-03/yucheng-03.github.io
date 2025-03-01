@@ -48,7 +48,7 @@ Staying close to nature makes me feel energetic and relaxed. I really appreciate
 
 ## Storytelling
 
-Stories can be presented in various forms, such as animations, TV dramas, movies, and more. When I was a kid, I was an absolute fan of the character Xiaofeng Ouyang from the animation "Marble Legends". He was an all - around wise and capable character, characterized by his integrity, courage, leadership, and kindness.
+Stories can be presented in various forms, such as animations, TV dramas, movies, and more. When I was a kid, I was an absolute fan of the character Xiaofeng Ouyang from the animation "Pinball Legend". He was an all - around wise and capable character, characterized by his integrity, courage, leadership, and kindness.
 As I grew older, my interests expanded to a wide range of stories. I'm really into TV dramas like "Empresses in the Palace", "Nirvana in Fire", "The Journey of Flower", "Latent" and "Drawing Sword". These shows have rich plots, well - developed characters, and profound themes that always draw me in.
 In addition to TV dramas, I also enjoy watching movies. "Dune" takes me to a magnificent and mysterious universe; the "Avengers" series offers thrilling battles and a complex hero universe; and "The Shawshank Redemption" touches my heart deeply with its story of hope and perseverance.
 
