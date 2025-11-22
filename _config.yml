@@ -32,6 +32,8 @@ footer:
   follow:
     - name: GitHub
       link: http://github.com/yucheng-03
+    - name: LinkedIn
+      link: www.linkedin.com/in/yu-cheng-30b595363
 
 # Build settings
 markdown: kramdown
