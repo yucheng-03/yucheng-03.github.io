@@ -15,21 +15,23 @@ Reading provides me with a way to explore the world from others' perspectives. T
 I'd like to share some books below that I believe are worth reading：
 
 <ul class="custom-list">
+  <li><em style="font-weight: bold;">The Courage to Be Disliked</em> by Ichiro Kishimi and Fumitake Koga</li>
+  <li><em style="font-weight: bold;">The Courage to be Happy</em> by Ichiro Kishimi and Fumitake Koga</li>
+  <li><em style="font-weight: bold;">Ordinary World</em> by Yao Lu</li>
+  <li><em style="font-weight: bold;">Siddhartha</em> by Hermann Hesse</li>
+  <li><em style="font-weight: bold;">The Lady of the Camellias</em> by Alexandre Dumas, fils</li>
+  <li><em style="font-weight: bold;">Inside the Game: Chinese Government and Economic Development</em> by Xiaohuan Lan</li>
   <li><em style="font-weight: bold;">My Father: A Story of Race and Inheritance</em> by Barack Obama</li>
   <li><em style="font-weight: bold;">The Kite Runner</em> by Khaled Hosseini</li>
-  <li><em style="font-weight: bold;">The Courage to Be Disliked</em> by Ichiro Kishimi and Fumitake Koga</li>
   <li><em style="font-weight: bold;">Educated</em> by Tara Westover</li>
-  <li><em style="font-weight: bold;">Ordinary World</em> by Lu Yao</li>
-  <li><em style="font-weight: bold;">The Lady of the Camellias</em> by Alexandre Dumas, fils</li>
   <li><em style="font-weight: bold;">Principles</em> by Ray Dalio</li>
-  <li><em style="font-weight: bold;">Inside the Game: Chinese Government and Economic Development</em> by Lan Xiaohuan</li>
 </ul>
 
 
 
 ## History
 
-As Emperor Taizong of the Tang Dynasty, Li Shimin, once said, “With history as a mirror, one can understand the rise and fall of a state” (以史为镜，可以知兴替). I have a deep - seated fondness for historical documentaries, as well as documentary books and talks especially on these topics:
+As Emperor Taizong of the Tang Dynasty, Li Shimin, once said, “With history as a mirror, one can understand the rise and fall of a state”. I have a deep - seated fondness for historical documentaries, as well as documentary books and talks especially on these topics:
 
 <ul class="custom-list">
   <li><em style="font-weight: bold;">World War II</em> </li>
@@ -53,4 +55,4 @@ As I grew older, my interests expanded to a wide range of stories. I'm really in
 In addition to TV dramas, I also enjoy watching movies. "Dune" takes me to a magnificent and mysterious universe; the "Avengers" series offers thrilling battles and a complex hero universe; and "The Shawshank Redemption" touches my heart deeply with its story of hope and perseverance.
 
 ## Others
-Beyond the aforementioned interests, I've also developed a profound admiration for the Shanghai Rainbow Singers.Additionally, I'm deeply smitten with Chinese calligraphy, especially the Kai and Xing scripts, as they not only offer a feast for the eyes with their distinct aesthetics but also bring me a profound sense of fulfillment during the writing process.
+Beyond the aforementioned interests, I've also developed a profound admiration for the Shanghai Rainbow Chamber Singers (RCS). Additionally, I'm deeply smitten with Chinese calligraphy, especially the Kai and Xing scripts, as they not only offer a feast for the eyes with their distinct aesthetics but also bring me a profound sense of fulfillment during the writing process.
