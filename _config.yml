@@ -15,7 +15,7 @@ header:
     - name: Home
       slug: /
     - name: Work
-    - name: Blog
+    - name: Teaching
     - name: Thoughts
     - name: Fun
     
@@ -55,6 +55,13 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# Keep the Google Search Console verification file out of the generated sitemap.
+defaults:
+  - scope:
+      path: googledbea46da11038be1.html
+    values:
+      sitemap: false
 
 # Used for defeating caching
 version: 1

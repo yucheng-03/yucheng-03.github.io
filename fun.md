@@ -2,6 +2,7 @@
 layout: fun
 title: Fun Stuff
 slug: /fun
+permalink: /fun
 ---
 
 Apart from those statistical fields, I have also developed a great deal of interest in the following subjects over the years.

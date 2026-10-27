@@ -1,4 +1,6 @@
 ---
+# Template kept for future posts; not built into the site. Copy this file and remove this line to publish.
+published: false
 layout: post
 title: "Post example"
 date: 2019-10-26 10:00:40
